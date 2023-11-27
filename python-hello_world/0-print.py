@@ -1,5 +1,1 @@
-def main():
-    print("Programming is like building a multilingual puzzle.")
-
-if __name__ == "__main__":
-    main()
+python3 0-print.py "Programming is like building a multilingual puzzleguillaume@ubuntu:~/py
