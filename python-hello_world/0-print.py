@@ -1,1 +1,3 @@
-print("Programming is like building a multilingual puzzle, one piece at a time. By creating smaller functions and classes, you can efficiently manage your codebase and prevent errors.")
+ python3 0-print.py 
+"Programming is like building a multilingual puzzle
+guillaume@ubuntu:~/py/
