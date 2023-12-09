@@ -1,11 +1,7 @@
-class Square:
-    def __init__(self, size):
-        self.__size = size
+s = Square(5)
+print(s.get_size()) # Output: 5
 
-    def get_size(self):
-        return self.__size
+s.set_size(10)
+print(s.get_size()) # Output: 10
 
-    def set_size(self, size):
-        if size < 0:
-            raise ValueError("Size must be non-negative")
-        self.__size = size
+s.set_size(-5) # Raises ValueError: Size must be non-negative
